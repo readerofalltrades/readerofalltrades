@@ -20,4 +20,4 @@ in the Unix philosophy.
 
 ## Links
 
-[Portfolio](https://fatintkishan.pages.dev) · [LinkedIn](https://linkedin.com/in/fatintkishan) · [Codeforces](https://codeforces.com/profile/readerofalltrades)
+[Portfolio](https://fatintkishan.com) · [LinkedIn](https://linkedin.com/in/fatintkishan) · [Codeforces](https://codeforces.com/profile/readerofalltrades)
