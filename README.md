@@ -48,12 +48,6 @@ I’m Fatin Tazwar Kishan, a Computer Science and Engineering student at BRAC Un
 - 🌐 **Bangla** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
 
-## GitHub Signals
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=readerofalltrades&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" alt="Fatin Tazwar Kishan stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readerofalltrades&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Fatin Tazwar Kishan top languages"/>
-
 <div align="center">
 
 <sub>[Get in touch](https://fatintkishan.com)</sub>
