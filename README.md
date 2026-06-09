@@ -25,6 +25,7 @@ I’m Fatin Tazwar Kishan, a Computer Science and Engineering student at BRAC Un
 ## Featured Projects
 
 - [Portfolio Website](https://fatintkishan.com/) — HTML, CSS, React, Vite, Cloudflare Pages
+- [Pathfinder the LFR](https://github.com/readerofalltrades/pathfinder-lfr) — ESP32, N20 Motors, L298N Motor Drivers
 
 ## Tools I Reach For
 
